@@ -22,7 +22,7 @@
   <canvas class="bg" bind:this={canvas}/>
   <br/>
   <img class="logo" src={logo} alt="logo"/>
-  <a href="http://rsui.cexup.com" target="_blank">Go to rsui App</a>
+  <a href="intent://telmon.rs.ui.ac.id/#Intent;scheme=https;package=com.cexup.app.telmonai" target="_blank">Go to rsui App</a>
 </main>
 
 <style>
